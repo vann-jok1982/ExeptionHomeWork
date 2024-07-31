@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca7b05d0-6732-41ed-a576-6bdb2e0c95ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isklyucheniya_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isklyucheniya/ConsoleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isklyucheniya/FileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isklyucheniya/NotLettersException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isklyucheniya/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca7b05d0-6732-41ed-a576-6bdb2e0c95ca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
